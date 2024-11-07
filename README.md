@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi, Santiago here </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://media.giphy.com/media/QA1fcFxBaBQD6t68be/giphy.gif" width="25"><b> About me </b>
-<img align="right" width=350px alt="Unicorn" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" />
+## <b> About me </b>
+<img align="right" width=350px alt="Unicorn" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
 
-I am a Computer Science student, almost done with it. I am always expanding my knowledge in back-end / blockchain development. I work as a full-stack blockchain developer in a known web3 company foundation and always looking to learn new things from them.
+I am a Computer Science student, almost done with it. I am always expanding my knowledge in back-end / blockchain development. I work as a full-stack blockchain developer in a well-known web3 company foundation and always looking to learn new things from them.
 
-* **I am interested in Backend / Blockchain development and and some arduinos projects**
+* **I am interested in Backend / Blockchain development and some arduinos projects**
 - 🌱 I’m currently learning ...
   - Serverless
   - AWS
@@ -13,7 +13,7 @@ I am a Computer Science student, almost done with it. I am always expanding my k
   - RabbitMQ
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help 😉<br>
-- Outside tech, ⚽ I love gaming and streaming videogames 🎮, 🎵 listening to music and ⚛︎ watching hardware reviews
+- Outside tech, I love gaming and streaming videogames 🎮, 🎵 listening to music and ⚛︎ watching hardware reviews
 - 📫 Reach out to me at: <a href="sanjes09@gmail.com">sanjes09@gmail.com</a>
 
 <br>
