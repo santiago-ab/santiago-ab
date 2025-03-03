@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "sniffer1": "node sniffer.js",
+    "sniffer2": "node sniffer2.js",
+    "client": "node client.js",
+    "index": "node index.js",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "cap": "^0.2.1",
+    "ioredis": "^5.4.2",
+    "pcap": "^3.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

@@ -1,0 +1,6 @@
+arp -s {ip} {mac}
+
+o
+
+netsh interface show interface
+netsh interface ipv4 add neighbors "{interface}" {ip} {mac}

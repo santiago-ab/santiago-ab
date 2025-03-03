@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "arputils": "./arputils",
+    "child_process": "^1.0.2",
+    "node-arp": "^1.0.6"
+  }
+}
