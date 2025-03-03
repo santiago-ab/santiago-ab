@@ -1,0 +1,11 @@
+- ip
+- valor random en ambos 1-10, va a ser el indice de la pregunta secreta
+- 10 preguntas
+- 1 sola autentica
+- toda las resuestas md5
+- pregunta 2 a la x, x random de 1-100
+
+
+- poner red en promiscuo
+- ddos al target
+- responder antes que el target
