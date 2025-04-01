@@ -1,46 +1,312 @@
-2025-03-03 12:38:37,309 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-03 12:38:37
-2025-03-03 12:38:37,310 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-03 12:38:37
-2025-03-03 12:38:37,323 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:38:37
-2025-03-03 12:38:37,331 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:38:37
-2025-03-03 12:38:39,341 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:38:39
-2025-03-03 12:38:39,345 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:38:39
-2025-03-03 12:38:41,358 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:38:41
-2025-03-03 12:38:41,360 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:38:41
-2025-03-03 12:38:43,371 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:38:43
-2025-03-03 12:38:43,373 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:38:43
-2025-03-03 12:38:45,378 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:38:45
-2025-03-03 12:38:45,380 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:38:45
-2025-03-03 12:38:45,467 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-03 12:38:45
-2025-03-03 12:38:45,467 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-03 12:38:45
-2025-03-03 12:47:09,143 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-03 12:47:09
-2025-03-03 12:47:09,144 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-03 12:47:09
-2025-03-03 12:47:09,158 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:47:09
-2025-03-03 12:47:09,170 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:47:09
-2025-03-03 12:47:11,176 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:47:11
-2025-03-03 12:47:11,178 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:47:11
-2025-03-03 12:47:13,189 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:47:13
-2025-03-03 12:47:13,192 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:47:13
-2025-03-03 12:47:15,203 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:47:15
-2025-03-03 12:47:15,204 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:47:15
-2025-03-03 12:47:17,215 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:47:17
-2025-03-03 12:47:17,216 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:47:17
-2025-03-03 12:47:18,173 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-03 12:47:18
-2025-03-03 12:47:18,173 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-03 12:47:18
-2025-03-03 12:50:33,575 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-03 12:50:33
-2025-03-03 12:50:33,577 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-03 12:50:33
-2025-03-03 12:50:33,593 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:50:33
-2025-03-03 12:50:33,599 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:50:33
-2025-03-03 12:50:35,605 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:50:35
-2025-03-03 12:50:35,607 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:50:35
-2025-03-03 12:50:37,618 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:50:37
-2025-03-03 12:50:37,619 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:50:37
-2025-03-03 12:50:39,627 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:50:39
-2025-03-03 12:50:39,628 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:50:39
-2025-03-03 12:50:41,638 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:50:41
-2025-03-03 12:50:41,640 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:50:41
-2025-03-03 12:50:43,648 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:50:43
-2025-03-03 12:50:43,649 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:50:43
-2025-03-03 12:50:45,658 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-03 12:50:45
-2025-03-03 12:50:45,660 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-03 12:50:45
-2025-03-03 12:50:46,451 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-03 12:50:46
-2025-03-03 12:50:46,451 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-03 12:50:46
+2025-03-11 19:59:18,019 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 19:59:18
+2025-03-11 19:59:18,019 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 19:59:18
+2025-03-11 19:59:18,037 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:18
+2025-03-11 19:59:18,043 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:18
+2025-03-11 19:59:20,051 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:20
+2025-03-11 19:59:20,053 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:20
+2025-03-11 19:59:22,059 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:22
+2025-03-11 19:59:22,062 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:22
+2025-03-11 19:59:24,071 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:24
+2025-03-11 19:59:24,075 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:24
+2025-03-11 19:59:26,087 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:26
+2025-03-11 19:59:26,090 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:26
+2025-03-11 19:59:28,097 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:28
+2025-03-11 19:59:28,100 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:28
+2025-03-11 19:59:30,111 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:30
+2025-03-11 19:59:30,115 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:30
+2025-03-11 19:59:32,127 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:32
+2025-03-11 19:59:32,131 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:32
+2025-03-11 19:59:34,144 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:34
+2025-03-11 19:59:34,147 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:34
+2025-03-11 19:59:36,158 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:36
+2025-03-11 19:59:36,162 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:36
+2025-03-11 19:59:38,173 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 19:59:38
+2025-03-11 19:59:38,178 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 19:59:38
+2025-03-11 19:59:38,431 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 19:59:38
+2025-03-11 19:59:38,432 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 19:59:38
+2025-03-11 20:09:04,212 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:09:04
+2025-03-11 20:09:04,213 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:09:04
+2025-03-11 20:09:04,231 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:04
+2025-03-11 20:09:04,239 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:04
+2025-03-11 20:09:06,246 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:06
+2025-03-11 20:09:06,249 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:06
+2025-03-11 20:09:08,254 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:08
+2025-03-11 20:09:08,263 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:08
+2025-03-11 20:09:10,271 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:10
+2025-03-11 20:09:10,273 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:10
+2025-03-11 20:09:12,283 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:12
+2025-03-11 20:09:12,286 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:12
+2025-03-11 20:09:14,291 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:14
+2025-03-11 20:09:14,293 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:14
+2025-03-11 20:09:16,302 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:16
+2025-03-11 20:09:16,304 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:16
+2025-03-11 20:09:18,311 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:18
+2025-03-11 20:09:18,312 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:18
+2025-03-11 20:09:20,319 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:20
+2025-03-11 20:09:20,321 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:20
+2025-03-11 20:09:22,327 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:22
+2025-03-11 20:09:22,333 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:22
+2025-03-11 20:09:24,336 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:24
+2025-03-11 20:09:24,338 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:24
+2025-03-11 20:09:26,349 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:26
+2025-03-11 20:09:26,352 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:26
+2025-03-11 20:09:28,360 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:28
+2025-03-11 20:09:28,363 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:28
+2025-03-11 20:09:28,516 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:09:28
+2025-03-11 20:09:28,516 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:09:28
+2025-03-11 20:09:40,253 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:09:40
+2025-03-11 20:09:40,254 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:09:40
+2025-03-11 20:09:40,271 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:40
+2025-03-11 20:09:40,277 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:40
+2025-03-11 20:09:42,285 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:42
+2025-03-11 20:09:42,288 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:42
+2025-03-11 20:09:44,295 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:44
+2025-03-11 20:09:44,300 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:44
+2025-03-11 20:09:46,309 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:46
+2025-03-11 20:09:46,313 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:46
+2025-03-11 20:09:48,323 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:48
+2025-03-11 20:09:48,326 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:48
+2025-03-11 20:09:50,339 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:50
+2025-03-11 20:09:50,343 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:50
+2025-03-11 20:09:52,352 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:52
+2025-03-11 20:09:52,361 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:52
+2025-03-11 20:09:54,366 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:54
+2025-03-11 20:09:54,367 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:54
+2025-03-11 20:09:56,375 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:56
+2025-03-11 20:09:56,378 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:56
+2025-03-11 20:09:58,387 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:09:58
+2025-03-11 20:09:58,389 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:09:58
+2025-03-11 20:10:00,395 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:00
+2025-03-11 20:10:00,398 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:00
+2025-03-11 20:10:02,408 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:02
+2025-03-11 20:10:02,410 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:02
+2025-03-11 20:10:04,417 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:04
+2025-03-11 20:10:04,419 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:04
+2025-03-11 20:10:06,427 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:06
+2025-03-11 20:10:06,429 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:06
+2025-03-11 20:10:08,437 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:08
+2025-03-11 20:10:08,438 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:08
+2025-03-11 20:10:10,447 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:10
+2025-03-11 20:10:10,449 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:10
+2025-03-11 20:10:12,458 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:12
+2025-03-11 20:10:12,460 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:12
+2025-03-11 20:10:14,477 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:14
+2025-03-11 20:10:14,478 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:14
+2025-03-11 20:10:16,490 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:16
+2025-03-11 20:10:16,494 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:16
+2025-03-11 20:10:18,500 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:18
+2025-03-11 20:10:18,502 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:18
+2025-03-11 20:10:20,510 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:20
+2025-03-11 20:10:20,517 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:20
+2025-03-11 20:10:22,527 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:22
+2025-03-11 20:10:22,529 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:22
+2025-03-11 20:10:24,537 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:24
+2025-03-11 20:10:24,539 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:24
+2025-03-11 20:10:26,549 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:10:26
+2025-03-11 20:10:26,553 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:10:26
+2025-03-11 20:10:27,557 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:10:27
+2025-03-11 20:10:27,557 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:10:27
+2025-03-11 20:11:02,136 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:11:02
+2025-03-11 20:11:02,136 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:11:02
+2025-03-11 20:11:02,158 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:02
+2025-03-11 20:11:02,166 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:02
+2025-03-11 20:11:04,174 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:04
+2025-03-11 20:11:04,175 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:04
+2025-03-11 20:11:06,191 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:06
+2025-03-11 20:11:06,196 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:06
+2025-03-11 20:11:08,209 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:08
+2025-03-11 20:11:08,213 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:08
+2025-03-11 20:11:10,220 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:10
+2025-03-11 20:11:10,221 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:10
+2025-03-11 20:11:12,231 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:12
+2025-03-11 20:11:12,233 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:12
+2025-03-11 20:11:13,183 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:11:13
+2025-03-11 20:11:13,184 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:11:13
+2025-03-11 20:11:42,438 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:11:42
+2025-03-11 20:11:42,439 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:11:42
+2025-03-11 20:11:42,453 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:42
+2025-03-11 20:11:42,459 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:42
+2025-03-11 20:11:44,465 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:44
+2025-03-11 20:11:44,466 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:44
+2025-03-11 20:11:46,474 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:46
+2025-03-11 20:11:46,476 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:46
+2025-03-11 20:11:48,490 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:11:48
+2025-03-11 20:11:48,495 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:11:48
+2025-03-11 20:11:48,612 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:11:48
+2025-03-11 20:11:48,612 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:11:48
+2025-03-11 20:12:50,392 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:12:50
+2025-03-11 20:12:50,393 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:12:50
+2025-03-11 20:12:50,410 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:12:50
+2025-03-11 20:12:50,417 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:12:50
+2025-03-11 20:12:52,424 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:12:52
+2025-03-11 20:12:52,425 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:12:52
+2025-03-11 20:12:54,442 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:12:54
+2025-03-11 20:12:54,445 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:12:54
+2025-03-11 20:12:56,453 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:12:56
+2025-03-11 20:12:56,456 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:12:56
+2025-03-11 20:12:58,034 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:12:58
+2025-03-11 20:12:58,034 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:12:58
+2025-03-11 20:15:53,610 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:15:53
+2025-03-11 20:15:53,611 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:15:53
+2025-03-11 20:15:53,627 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:15:53
+2025-03-11 20:15:53,636 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:15:53
+2025-03-11 20:15:55,643 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:15:55
+2025-03-11 20:15:55,646 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:15:55
+2025-03-11 20:15:57,659 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:15:57
+2025-03-11 20:15:57,662 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:15:57
+2025-03-11 20:15:59,676 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:15:59
+2025-03-11 20:15:59,679 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:15:59
+2025-03-11 20:16:01,702 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:01
+2025-03-11 20:16:01,705 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:01
+2025-03-11 20:16:03,717 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:03
+2025-03-11 20:16:03,719 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:03
+2025-03-11 20:16:05,743 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:05
+2025-03-11 20:16:05,749 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:05
+2025-03-11 20:16:07,762 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:07
+2025-03-11 20:16:07,767 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:07
+2025-03-11 20:16:09,783 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:09
+2025-03-11 20:16:09,787 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:09
+2025-03-11 20:16:11,798 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:11
+2025-03-11 20:16:11,801 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:11
+2025-03-11 20:16:13,811 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:13
+2025-03-11 20:16:13,814 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:13
+2025-03-11 20:16:15,825 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:15
+2025-03-11 20:16:15,827 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:15
+2025-03-11 20:16:17,837 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:17
+2025-03-11 20:16:17,841 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:17
+2025-03-11 20:16:19,850 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:19
+2025-03-11 20:16:19,854 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:19
+2025-03-11 20:16:21,865 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:21
+2025-03-11 20:16:21,867 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:21
+2025-03-11 20:16:23,880 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:23
+2025-03-11 20:16:23,882 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:23
+2025-03-11 20:16:25,897 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:25
+2025-03-11 20:16:25,901 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:25
+2025-03-11 20:16:27,910 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:16:27
+2025-03-11 20:16:27,914 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:16:27
+2025-03-11 20:16:27,968 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:16:27
+2025-03-11 20:16:27,969 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:16:27
+2025-03-11 20:17:49,826 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:17:49
+2025-03-11 20:17:49,827 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:17:49
+2025-03-11 20:17:49,841 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:17:49
+2025-03-11 20:17:49,849 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:17:49
+2025-03-11 20:17:51,852 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:17:51
+2025-03-11 20:17:51,854 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:17:51
+2025-03-11 20:17:53,866 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:17:53
+2025-03-11 20:17:53,868 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:17:53
+2025-03-11 20:17:55,882 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:17:55
+2025-03-11 20:17:55,885 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:17:55
+2025-03-11 20:17:57,893 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:17:57
+2025-03-11 20:17:57,895 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:17:57
+2025-03-11 20:17:59,905 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:17:59
+2025-03-11 20:17:59,907 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:17:59
+2025-03-11 20:18:01,913 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:01
+2025-03-11 20:18:01,915 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:01
+2025-03-11 20:18:03,930 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:03
+2025-03-11 20:18:03,932 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:03
+2025-03-11 20:18:05,937 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:05
+2025-03-11 20:18:05,940 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:05
+2025-03-11 20:18:07,947 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:07
+2025-03-11 20:18:07,949 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:07
+2025-03-11 20:18:09,955 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:09
+2025-03-11 20:18:09,958 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:09
+2025-03-11 20:18:11,968 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:11
+2025-03-11 20:18:11,971 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:11
+2025-03-11 20:18:13,980 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:13
+2025-03-11 20:18:13,983 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:13
+2025-03-11 20:18:15,993 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:15
+2025-03-11 20:18:15,996 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:15
+2025-03-11 20:18:18,006 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:18
+2025-03-11 20:18:18,008 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:18
+2025-03-11 20:18:20,016 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:18:20
+2025-03-11 20:18:20,018 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:18:20
+2025-03-11 20:18:21,578 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:18:21
+2025-03-11 20:18:21,580 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:18:21
+2025-03-11 20:19:36,085 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:19:36
+2025-03-11 20:19:36,087 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:19:36
+2025-03-11 20:19:36,102 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:36
+2025-03-11 20:19:36,109 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:36
+2025-03-11 20:19:38,116 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:38
+2025-03-11 20:19:38,117 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:38
+2025-03-11 20:19:40,127 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:40
+2025-03-11 20:19:40,130 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:40
+2025-03-11 20:19:42,140 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:42
+2025-03-11 20:19:42,142 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:42
+2025-03-11 20:19:44,152 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:44
+2025-03-11 20:19:44,155 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:44
+2025-03-11 20:19:46,168 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:46
+2025-03-11 20:19:46,172 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:46
+2025-03-11 20:19:48,183 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:48
+2025-03-11 20:19:48,185 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:48
+2025-03-11 20:19:50,196 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:19:50
+2025-03-11 20:19:50,198 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:19:50
+2025-03-11 20:19:52,178 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:19:52
+2025-03-11 20:19:52,180 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:19:52
+2025-03-11 20:20:06,156 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 20:20:06
+2025-03-11 20:20:06,156 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 20:20:06
+2025-03-11 20:20:06,173 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:06
+2025-03-11 20:20:06,181 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:06
+2025-03-11 20:20:08,188 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:08
+2025-03-11 20:20:08,192 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:08
+2025-03-11 20:20:10,204 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:10
+2025-03-11 20:20:10,207 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:10
+2025-03-11 20:20:12,215 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:12
+2025-03-11 20:20:12,217 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:12
+2025-03-11 20:20:14,229 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:14
+2025-03-11 20:20:14,232 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:14
+2025-03-11 20:20:16,242 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:16
+2025-03-11 20:20:16,245 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:16
+2025-03-11 20:20:18,258 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:18
+2025-03-11 20:20:18,264 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:18
+2025-03-11 20:20:20,276 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:20
+2025-03-11 20:20:20,278 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:20
+2025-03-11 20:20:22,287 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:22
+2025-03-11 20:20:22,292 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:22
+2025-03-11 20:20:24,299 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:24
+2025-03-11 20:20:24,301 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:24
+2025-03-11 20:20:26,314 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:26
+2025-03-11 20:20:26,317 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:26
+2025-03-11 20:20:28,324 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:28
+2025-03-11 20:20:28,326 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:28
+2025-03-11 20:20:30,331 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:30
+2025-03-11 20:20:30,334 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:30
+2025-03-11 20:20:32,344 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:32
+2025-03-11 20:20:32,348 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:32
+2025-03-11 20:20:34,356 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:34
+2025-03-11 20:20:34,358 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:34
+2025-03-11 20:20:36,367 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:36
+2025-03-11 20:20:36,370 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:36
+2025-03-11 20:20:38,376 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:38
+2025-03-11 20:20:38,379 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:38
+2025-03-11 20:20:40,391 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:40
+2025-03-11 20:20:40,394 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:40
+2025-03-11 20:20:42,409 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 20:20:42
+2025-03-11 20:20:42,411 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 20:20:42
+2025-03-11 20:20:42,506 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 20:20:42
+2025-03-11 20:20:42,509 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 20:20:42
+2025-03-11 21:07:24,040 - [*] Target selected: 192.168.0.103 (d8:bb:c1:41:47:bf), 2025-03-11 21:07:24
+2025-03-11 21:07:24,043 - [*] Starting ARP spoofing... Press Ctrl+C to stop. 2025-03-11 21:07:24
+2025-03-11 21:07:24,064 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:24
+2025-03-11 21:07:24,071 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:24
+2025-03-11 21:07:26,079 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:26
+2025-03-11 21:07:26,083 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:26
+2025-03-11 21:07:28,096 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:28
+2025-03-11 21:07:28,099 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:28
+2025-03-11 21:07:30,110 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:30
+2025-03-11 21:07:30,114 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:30
+2025-03-11 21:07:32,129 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:32
+2025-03-11 21:07:32,130 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:32
+2025-03-11 21:07:34,144 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:34
+2025-03-11 21:07:34,147 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:34
+2025-03-11 21:07:36,154 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:36
+2025-03-11 21:07:36,157 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:36
+2025-03-11 21:07:38,167 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:38
+2025-03-11 21:07:38,171 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:38
+2025-03-11 21:07:40,188 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:40
+2025-03-11 21:07:40,191 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:40
+2025-03-11 21:07:42,203 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:42
+2025-03-11 21:07:42,207 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:42
+2025-03-11 21:07:44,219 - Sent ARP spoof packet to 192.168.0.103 (d8:bb:c1:41:47:bf) claiming to be 192.168.0.1, 2025-03-11 21:07:44
+2025-03-11 21:07:44,222 - Sent ARP spoof packet to 192.168.0.1 (d8:47:32:67:74:98) claiming to be 192.168.0.103, 2025-03-11 21:07:44
+2025-03-11 21:07:44,769 - Restored ARP tables for 192.168.0.103 and 192.168.0.1, 2025-03-11 21:07:44
+2025-03-11 21:07:44,772 - [*] Log file integrity hash (SHA-256): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 2025-03-11 21:07:44
