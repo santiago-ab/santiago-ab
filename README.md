@@ -75,10 +75,9 @@ I am a Computer Science student, almost done with it. I am always expanding my k
 <br>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwZTQ5bnBqc2Q5dWx2ZmpucXBmc215eWR6dTB0cDg2dnB5NTB4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v1sJPCGg1z2HROGgV6/giphy.gif" width="35"><b> Certificates </b>
-[Ethereum and Solidity: The
-Complete Developer's Guide](https://github.com/santiago-ab/santiago-ab/blob/main/Certificates/Ethereum%20and%20Solidity.pdf)
 
-[EF SET Certificate](https://github.com/santiago-ab/santiago-ab/blob/main/Certificates/EF%20SET%20Certificate.pdf)
+[View All](https://github.com/santiago-ab/santiago-ab/tree/main/Certificates)
+
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
