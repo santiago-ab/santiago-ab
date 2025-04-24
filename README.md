@@ -3,7 +3,9 @@
 ## <b> About me </b>
 <img align="right" width=350px alt="Unicorn" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
 
-I am a Computer Science student, almost done with it. I am always expanding my knowledge in back-end / blockchain development. I work as a full-stack blockchain developer in a well-known web3 company foundation and always looking to learn new things from them.
+With over 6 years of experience in software development—5 of them dedicated to Web3—I specialize in building robust, scalable systems with TypeScript, React, Node.js, and blockchain technologies. I have led teams and contributed to cutting-edge projects that push the boundaries of decentralized applications, smart wallets, and blockchain integrations throughout the AllianceBlock Fundation (including Nexera and Brillion).
+
+Currently, I’m focused on expanding my expertise by diving into Rust/Solana development, while also honing my leadership skills to drive innovation in the Web3 space. I’m always seeking new challenges, collaborations, and opportunities to create meaningful impact in the tech community.
 
 * **I am interested in Backend / Blockchain development and some arduinos projects**
 - 🌱 I’m currently learning ...
